@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/luizgma_/">
     <img src="https://img.shields.io/badge/Instagram-@luizgma_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   <a href="https://www.linkedin.com/in/luiz-guilherme-mainoth-524579350//">
+    <img src="https://img.shields.io/badge/Linkedin--274374?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
