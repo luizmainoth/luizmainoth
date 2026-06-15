@@ -35,6 +35,7 @@
 ![HTML](https://img.shields.io/badge/HTML-F24E1E?style=for-the-badge&logo=html5&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-1A4AD6?style=for-the-badge&logo=css3&logoColor=000)
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9daaf62f-b369-4c7d-bce4-82c385ae7083" />
 
 
 ### Backend
