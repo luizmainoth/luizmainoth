@@ -41,12 +41,16 @@
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-FFEE8C?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-red?style=for-the-badge&logo=c)
+
 
 
 ### DevOps & Tools
 
 
 ![Figma](https://img.shields.io/badge/Figma-274374?style=for-the-badge&logo=figma)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
